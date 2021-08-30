@@ -26,7 +26,14 @@ public class Lesson2c {
     //  kutsuge iga väärtuse korral välja meetodit getSeqLength
     //  salvestage maha kõige suurem ja funktsiooni lõpus tagastage leitud arv
     public static int sequence3n(int x, int y) {
-        return 0;
+        int largestCount = 0;
+        for (int i = x; i <= y; i++){
+            int count = getSeqLength(i);
+            if (count > largestCount){
+                largestCount = count;
+            }
+        }
+        return largestCount;
     }
 
     // TODO 2
@@ -35,7 +42,12 @@ public class Lesson2c {
     //  x = 1 ->1
     //  x = 2 -> 2
     public static int getSeqLength(int x){
-        return 0;
+        int count = 1;
+        while (x > 1) {
+            x = nextElement(x);
+            count++;
+        }
+        return count;
     }
 
     // TODO 1
@@ -44,7 +56,11 @@ public class Lesson2c {
     //  x = 2 -> 1
     //  x = 3 -> 10
     public static int nextElement(int x){
-        return 0;
+        if(x % 2 == 0) {
+            return x / 2;
+        } else{
+            return x * 3 + 1;
+        }
     }
 
 }

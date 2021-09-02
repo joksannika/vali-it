@@ -9,6 +9,7 @@ public class Lesson2b {
         System.out.println(Arrays.toString(reverseArray(new int[]{1, 2, 3, 4})));
         System.out.println(min(new int[]{58, 67, 8, 234}));
         multiplyTable(5,5);
+        System.out.println(sequence3n(10,20));
 
     }
 
@@ -129,7 +130,7 @@ public class Lesson2b {
     // Siis tuleb vaadata, kui pikk jada tuleb kui esimene numbr on 10. Järgmisen tuleb arvutada number 11 jada pikkus.
     // jne. kuni numbrini 20
     // Tagastada tuleb kõige pikem number
-    // Näiteks sisendi 10 ja 20 puhul on vastus 20
+    // Näiteks sisendi 10 ja 20 puhul on vastus 21
 
 
     public static int sequence3n(int x, int y) {

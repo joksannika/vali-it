@@ -58,7 +58,7 @@ public class Lesson2 {
     }
 
     // TODO tagasta massiiv milles oleks numbrid 1,2,3,4,5
-    public int[] sampleArray() {
+    public static int[] sampleArray() {
         int[] array = new int[5]; //array {0, 0, 0, 0, 0}
         array[0] = 1; // array {1, 0, 0, 0, 0}
         array[1] = 2; // array {1, 2, 0, 0, 0}
@@ -73,7 +73,7 @@ public class Lesson2 {
     // näiteks
     // sisend: 5
     // trüki välja: 1 2 3 4 5
-    public int[] firstN(int n) {
+    public static int[] firstN(int n) {
         int[] array = new int[n]; // array pikkusega n
         int i = 0;
         while (i < n) { // tee nii mitu korda kui on array

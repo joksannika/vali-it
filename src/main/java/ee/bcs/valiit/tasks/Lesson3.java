@@ -25,6 +25,7 @@ public class Lesson3 {
             reversed = a.charAt(i) + reversed;
         }
         return reversed;
+
     }
 
     // TODO tagasta kas sisestatud arv on primaar arv (jagub ainult 1 ja iseendaga)

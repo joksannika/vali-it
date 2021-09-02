@@ -9,11 +9,11 @@
 **Stringid, funktsioonid**: https://docs.google.com/presentation/d/1JO6J6bWThu_DnzL9i5BuG2IWXuu8oazB/edit?usp=sharing&ouid=113984198037355275739&rtpof=true&sd=true  
 **Konsool, massiivid, tsüklid**: https://docs.google.com/presentation/d/1HCuQXJiybJgrbkGZNjEF40yFu1h8pY6N/edit?usp=sharing&ouid=113984198037355275739&rtpof=true&sd=true  
 **Objektid**:  https://docs.google.com/presentation/d/1tUDoakeTN1LERDlNhpSCndy8vVOcAoAM/edit?usp=sharing&ouid=113984198037355275739&rtpof=true&sd=true  
-**GIT**:  
-**Json, REST, Web**:  
-**Request Body, DTO**:  
-**OOP, Exceptionid**:  
-**SQL**:  
+**GIT**: https://docs.google.com/presentation/d/1GY4NwADEZRZOP3hFHqilWfcphgZUKxNM/edit?usp=sharing&ouid=113984198037355275739&rtpof=true&sd=true  
+**Json, REST, Web**: https://docs.google.com/presentation/d/1FiTqVOGw5_vwBcdNqFcb9mDtHq9QViUM/edit?usp=sharing&ouid=113984198037355275739&rtpof=true&sd=true  
+**Request Body, DTO**: https://docs.google.com/presentation/d/1JaaNUCEDh_URn7dRGTZ_wrro40UExqWx/edit?usp=sharing&ouid=113984198037355275739&rtpof=true&sd=true  
+**Objects**: https://docs.google.com/presentation/d/1pws_MES-RBO1hgvEwghUvfb-OWsLyX0V/edit?usp=sharing&ouid=113984198037355275739&rtpof=true&sd=true  
+**SQL**: https://docs.google.com/presentation/d/1h6vB1bwJsZOWe87u1-8Ohuphs5HSj2pa/edit?usp=sharing&ouid=113984198037355275739&rtpof=true&sd=true  
 **Architecture**:  
 **Liquibase**:  
 **Exceptions**:  
@@ -52,7 +52,7 @@ https://www.codewars.com/kata/5819f1c3c6ab1b2b28000624
 https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1  
 
 ## Testid
-**Test 1**:  
+**Test 1**: https://docs.google.com/presentation/d/1OQmRRO5KVAwmgdBIHGwKNqCIgVljOoUW/edit?usp=sharing&ouid=113984198037355275739&rtpof=true&sd=true  
 **Test 2**:  
 **Test 3**:  
 **Test 4**:  

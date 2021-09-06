@@ -30,8 +30,8 @@ public class Lesson4 {
                 System.out.println("Sisesta konto nr");
                 String accountNr = scanner.nextLine();
                 accountBalanceMap.put(accountNr, 0.0);
-                System.out.println("Konto " + (accountNr) + " loodud");
-                System.out.println(accountBalanceMap.containsKey(accountNr));
+               // System.out.println("Konto " + (accountNr) + " loodud");
+               // System.out.println(accountBalanceMap.containsKey(accountNr));
                 System.out.println("Loodud konto: " + accountBalanceMap.keySet());
             }
             // TODO 2
